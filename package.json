@@ -1,0 +1,19 @@
+{
+  "name": "github_copilot_practice_js",
+  "version": "1.0.0",
+  "description": "The goal of this task is to familiarize you with the features of GitHub Copilot by setting up a Node.js project, implementing a set of methods in a JavaScript class skeleton, and validating them through unit tests using Mocha and Chai.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.8.2"
+  }
+}
